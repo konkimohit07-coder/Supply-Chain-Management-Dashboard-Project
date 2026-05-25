@@ -1,11 +1,5 @@
 # Supply-Chain-Management-Dashboard-Project
 This project focuses on analyzing supply chain operations using Tableau to improve inventory management, delivery performance, sales tracking, and operational efficiency.
-# Supply Chain Analytics Dashboard
-
-## Project Overview
-
-This project focuses on analyzing supply chain operations using Tableau to improve inventory management, delivery performance, sales tracking, and operational efficiency.
-
 The dashboard provides interactive visualizations and actionable insights for decision-making.
 
 ---
@@ -41,19 +35,31 @@ The dashboard provides interactive visualizations and actionable insights for de
 
 ## Project Structure
 
+Supply-Chain-Management-Dashboard/
+│
 ├── data/
-├── dashboard/
+│   └── supply_chain_data.csv
+│
+├── Tableau Dashboard/
+│   └── Supply Chain Analytics Dashboard.twb
+│
 ├── screenshots/
+│   └── dashboard.png
+│
+├── Project Report/
+│   └── Supply Chain Management Dashboard Project.pdf
+│
+├── Error Handling Note.txt
+├── LICENSE
 ├── README.md
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 
 
 ---
 
 ## Dashboard Preview
 
-(Add screenshots here after uploading)
+
 
 ---
 
