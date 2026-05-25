@@ -58,7 +58,7 @@ Supply-Chain-Management-Dashboard/
 ---
 
 ## Dashboard Preview
-
+![Dashboard]()
 
 
 ---
