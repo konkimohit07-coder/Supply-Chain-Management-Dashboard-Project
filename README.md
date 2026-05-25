@@ -82,14 +82,6 @@ The dataset contains:
 - Supplier information
 - Sales records
 
----
-
-## Future Improvements
-
-- Real-time dashboard integration
-- SQL database connectivity
-- Predictive analytics
-- Power BI version
 
 ---
 
